@@ -1,0 +1,2 @@
+version,device name,recording time,platform,appVersion,device id,sensors,sampleRateMs
+3,iPhone SE (2nd generation),2023-04-11_19-01-18,ios,1.13,76371d6e-26e3-4136-a925-473037c5be3b,Accelerometer|Barometer|Heart Rate|Wrist Motion|Annotation|AccelerometerUncalibrated,10|1000|10|10||10

@@ -1,0 +1,13 @@
+• All the data were collected in Tech Building. Climbing data were collected during climbing from basemen to floor 4.
+
+• Watch should be “tight” on wrist. Two ﬁngers from wrist bone (styloid process). Tight enough to ﬁt only one ﬁnger. Worn on left arm. Facing up (posterior surface of the forearm).
+
+• Phone should be located in the back right pocket.
+
+• Record: heart rate, wrist mo#on, barometer (from iPhone).
+
+• Set sampling rate to 100 Hz. And interpolating all data into 100 Hz.
+
+• Record all trials for 1 minute (we will work with data that have already been collected).
+
+• Verify that data were collected.

@@ -1,0 +1,6 @@
+Group 2 Recording Conditions:
+Watch placement conditions (i.e. location, tightness, left wrist), phone was kept in pocket, All data has been interpolated to 100 Hz
+Lengths between trials all tend to differ due to hear rate detector having low number of readings
+Stairs at Tech were used
+
+    

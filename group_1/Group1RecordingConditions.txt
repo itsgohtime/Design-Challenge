@@ -1,0 +1,22 @@
+Group 1 Recording Conditions:
+- All watch placement conditions (i.e. location, tightness, left wrist) were met
+- Phone was usually held in hand, as stationary as possible), to ensure data was being collected
+- All data has been interpolated to 100 Hz
+- Duration of each activity per subject is variable, as explained below. However, each sensor per activity has the same duration of sensor data after processing. If an action has no further explanation, it meets the criteria as specified.
+
+Subject ID: 1
+    - Running:
+        - Time between 12 and 63 seconds (i.e. 51 s of data), as limited by HR sensor data
+    - Sitting:
+        - Time between 6 and 59 seconds (i.e. 53 s of data), as limited by HR sensor data
+    - Walking:
+        - Time between 6 and 30 seconds (i.e. 24 s of data), as limited by HR sensor data
+        - HR sensor kept turning off halfway during data collection. It is recommended to only use subject 2 walking data and weight appropriately
+        - Alternatively, unprocessed data for WristMotion and Barometer may be used, in conjunction with the shortened HR data
+    
+Subject ID: 2
+    -  Sitting:
+        - Although this technically meets the design criteria, it is suggested to omit the first few seconds of data, as the subject was still moving.
+    - Walking:
+        - Time between 1 and 59 seconds (i.e. 58 s of data), as limited by HR sensor data
+    

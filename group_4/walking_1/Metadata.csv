@@ -1,0 +1,2 @@
+version,device name,recording time,platform,appVersion,device id,sensors,sampleRateMs
+3,iPhone SE (2nd generation),2023-04-13_18-19-43,ios,1.13,76371d6e-26e3-4136-a925-473037c5be3b,Barometer|Heart Rate|Wrist Motion|Annotation,1000|10|10|

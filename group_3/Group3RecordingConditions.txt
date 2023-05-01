@@ -1,0 +1,7 @@
+• Watch was tightly on the left wrist.
+• Phone was held in hand due to connectivity issues
+• Record: heart rate, wrist mo#on, barometer (from iPhone)
+• Set sampling rate to 100 Hz
+• Record all trials for 1 minute (some data was almost cut in half due to heart rate not recording)
+• Recordings sometimes were done with the arm raised above the chest to keep the connection secure. 
+• One set of data included since the other experiments were faulty or data couldn't be acquired. 
